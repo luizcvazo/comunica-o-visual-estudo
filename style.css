@@ -163,7 +163,6 @@ header {
     scroll-snap-type: x mandatory;
     scroll-behavior: smooth;
     padding: 50px 10%; 
-    scrollbar-width: none;
 }
 
 .cards-trabalhos::-webkit-scrollbar { display: none; }
